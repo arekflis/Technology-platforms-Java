@@ -1,6 +1,6 @@
 # Technology-platforms-Java
 
-This laboratories were part of my Technology Platforms course and focused on basic Java SE standards such as:
+These laboratories were part of my Technology Platforms course and focused on basic Java SE standards such as:
 
 - Lab 1 - Collections
 - Lab 2 - Threads
